@@ -166,6 +166,7 @@ public class E05For
 			}
 			// 하나의 행을 출력한 후 줄바꿈 처리한다.
 			System.out.println();
+			
 		}
 	}
 }
