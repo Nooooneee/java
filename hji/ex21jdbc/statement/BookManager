@@ -1,0 +1,12 @@
+public void JDBCManager extends IConnectImpl
+{
+    
+}
+
+public class BookManager
+{
+    public static void main(String[] args)
+	{
+        
+    }
+}
